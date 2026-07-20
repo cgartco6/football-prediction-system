@@ -1,0 +1,11 @@
+requests
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+beautifulsoup4
+matplotlib
+seaborn
+flask
+python-dotenv
